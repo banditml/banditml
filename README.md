@@ -8,9 +8,7 @@ pip install offline-policy-evaluation
 ```
 
 ## Usage
-```
-import o
-```
+TBD
 
 ## Supported methods
 
