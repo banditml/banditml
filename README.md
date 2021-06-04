@@ -3,9 +3,7 @@
 Implementations and examples of common offline policy evaluation methods.
 
 ## Installation
-```
-pip install offline-policy-evaluation
-```
+TBD
 
 ## Usage
 TBD
