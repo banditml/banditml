@@ -1,6 +1,6 @@
 # Offline policy evaluation
 
-Implementations and examples of common offline policy evaluation methods.
+Implementations and examples of common offline policy evaluation methods in Python.
 
 ## Installation
 TBD
