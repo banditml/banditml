@@ -1,7 +1,19 @@
 # Offline policy evaluation
 
-Implemenations and examples of common offline policy evaluation methods.
+Implementations and examples of common offline policy evaluation methods.
 
-Methods:
+## Installation
+```
+pip install offline-policy-evaluation
+```
+
+## Usage
+```
+import o
+```
+
+## Supported methods
 
 - [x] Inverse propensity scoring
+- [x] Direct method
+- [x] Doubly robust ([paper](https://arxiv.org/abs/1503.02834))

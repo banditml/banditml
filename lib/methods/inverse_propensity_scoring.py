@@ -3,7 +3,7 @@ import pandas as pd
 
 def evaluate(df: pd.DataFrame):
     """
-    IPS tutorial:
+    Inverse propensity scoring (IPS) tutorial:
     https://www.cs.cornell.edu/courses/cs7792/2016fa/lectures/03-counterfactualmodel_6up.pdf
     """
 
